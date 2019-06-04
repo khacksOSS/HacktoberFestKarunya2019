@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>results</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}"></link>
+</head>
+<body>
+    <header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2>chance of admission</h2>
+
+	</div>
+	</header>
+
+	<p style="color:blue;font-size:20;text-align: center;"><b>Results of prediction</b></p>
+	<p style="color:red;font-size:30;text-align: center;"><b>chance of admission is {{prediction}}</b></p>
+
+</body>
+</html>
