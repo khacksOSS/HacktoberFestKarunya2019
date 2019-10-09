@@ -1,1 +1,11 @@
-
+#include<stdio.h>
+int main()
+{
+  int a,b,c;
+  printf("Enter Your First Number");
+  scan("%d,a");
+  printf("Enter Your Second Number");
+  scan("%d,b");
+  printf("The sum is %d",c);
+  return 0;
+}
