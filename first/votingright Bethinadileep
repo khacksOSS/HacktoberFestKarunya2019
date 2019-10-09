@@ -1,0 +1,8 @@
+#include<stdio.h>
+main()
+{
+int a;
+printf("enter the value");
+scanf("%d",&a);
+(a>18)?printf("Eligible to vote"):printf("Not Eligible to vote");
+}
