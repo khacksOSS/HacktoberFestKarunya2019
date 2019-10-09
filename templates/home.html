@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+
+</head>
+<body background="{{ url_for('static', filename='css/bgimage.png') }}">
+    <header>
+		<div class="container">
+		<div id="brandname">
+            ML App
+		</div>
+		<h2>chance of admission for the colleges</h2>
+        </div>
+    </header>
+<div class="ml-container">
+
+        <form action="{{ url_for('predict')}}" method="POST">
+		<!-- <input type="text" name="comment"/> -->
+            <p align="center"><textarea name="GRE score" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="GRE score">GRE score</label></font></p>
+            <p align="center"><textarea name="Toefl score" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="Toefl score">Toefl score</label></font></p>
+            <p align="center"><textarea name="University ranking" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="University ranking">University ranking</label></font></p>
+            <p align="center"><textarea name="SOP" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="SOP">SOP</label></font></p>
+            <p align="center"><textarea name="LOR" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="LOR">LOR</label></font></p>
+            <p align="center"><textarea name="CGPA" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="CGPA">CGPA</label></font></p>
+            <p align="center"><textarea name="research" rows="1" cols="5"></textarea></p>
+            <p align="center"><font color="red"><label for="research">research</label></font></p>
+		<br/>
+
+		<input type="submit" class="btn-info" value="predict">
+        </form>
+
+</div>
+</body>
+</html>
