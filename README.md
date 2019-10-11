@@ -12,10 +12,11 @@ A repo for Contribution done during HacktoberFestKarunya 2019
 
 1. Mention your name at the top of your file 
 ```
-@ your_name
+@ Vinith
 
 \\ Code
 
-```
+```print("hello,this is vinith")
+
 
 
