@@ -3,4 +3,12 @@ Third year contribution are kept under this profile
 Amit John[URK17CS149]
 james sundar lazarus[URK17CS085]
 suraj kumar [URK17CS308]
+Abhishek Ranjan [urk17cs336]
+nitish kumar verma [urk17cs359]
+kedharnath [urk17cs354]
+Jacob Samuel[URK17CS040]
+Jerrin Dawny [URP17BCA003]
+james sundar lazarus[URK17CS085]
+suraj kumar [URK17CS308]
+chirag bablani - [URK17CS229]
 
