@@ -1,13 +1,10 @@
 Third year contribution are kept under this profile
 
+Samuel [urk17cs364]
 ravirajan[urk17cs369]
-
-
-
 Mariajohn Antony [urk17cs280]
 james sundar lazarus[URK17CS085]
 suraj kumar [URK17CS308]
-
 Amit John[URK17CS149]
 james sundar lazarus[URK17CS085]
 suraj kumar [URK17CS308]
@@ -19,6 +16,3 @@ Jerrin Dawny [URP17BCA003]
 james sundar lazarus[URK17CS085]
 suraj kumar [URK17CS308]
 chirag bablani - [URK17CS229]
-
-
-
