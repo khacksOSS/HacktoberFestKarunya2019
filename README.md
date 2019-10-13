@@ -19,3 +19,6 @@ A repo for Contribution done during HacktoberFestKarunya 2019
 ```
 
 
+### https://docs.google.com/presentation/d/1KTmGjuUhnXCPwni3B8-mLYL-8ygUHl1x5BfxVDuJ3UM/edit?usp=sharing
+
+
