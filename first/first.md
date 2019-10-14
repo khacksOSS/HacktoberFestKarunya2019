@@ -1,14 +1,34 @@
 First year Contribution are Kept under this repo
 sam sergius URK19CS1020
 
-include<stdio.h>  
- int main()    
-{    
-int a=10, b=20;      
-printf("Before swap a=%d b=%d",a,b);      
-a=a+b;//a=30 (10+20)    
-b=a-b;//b=10 (30-20)    
-a=a-b;//a=20 (30-10)    
-printf("\nAfter swap a=%d b=%d",a,b);    
-return 0;  
-}   
+neha [urk19isd013]
+
+shreya r nair urk19ac1049
+
+Ajin S  URK19CS1053
+
+kirubaharan urk19me1063
+
+Jobin [urk19cs1034]
+
+SOWPPATI RUBY GRACE,URK19EC1043
+
+Benvin [URK19CS1060]
+
+florina mary [urk19cs1069]
+
+hiruthic[urk19cs2017]
+
+Sharan s(urk19cs1132) 
+
+T.Philip Paul Arunodhayam URK19CS1228
+
+steve abraham [urk19cs1015]
+
+saran[urk19cs1215]
+
+Rishabh [urk19cs1109]
+
+vishal soy-urk19cs1103
+
+amala nikitha
