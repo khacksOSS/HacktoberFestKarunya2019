@@ -1,4 +1,5 @@
 First year Contribution are Kept under this repo
+sam sergius URK19CS1020
 
 neha [urk19isd013]
 
@@ -31,3 +32,4 @@ Rishabh [urk19cs1109]
 vishal soy-urk19cs1103
 
 amala nikitha
+
