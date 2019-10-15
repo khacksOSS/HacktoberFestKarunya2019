@@ -1,5 +1,9 @@
 First year Contribution are Kept under this repo
 sam sergius URK19CS1020
+
+
+
+
 neha [urk19isd013]
 shreya r nair urk19ac1049
 Ajin S  URK19CS1053
@@ -14,5 +18,13 @@ T.Philip Paul Arunodhayam URK19CS1228
 steve abraham [urk19cs1015]
 saran[urk19cs1215]
 Rishabh [urk19cs1109]
+
 vishal soy-urk19cs113
+
+
+
+vishal soy-urk19cs1103
+
 amala nikitha
+
+
