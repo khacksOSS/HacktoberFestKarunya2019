@@ -1,4 +1,8 @@
 
+@ Alen George
+
+\\ Code
+
 package experiment2;
 import java.util.Scanner;
 public class Program1 {
