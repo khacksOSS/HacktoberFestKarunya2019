@@ -1,4 +1,6 @@
 a=5
 b=26.5
-x=a+b
+c=30
+x=a+b+c
 print("This is for hacktoberfest")
+print("X=",x)
