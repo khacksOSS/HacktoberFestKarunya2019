@@ -12,10 +12,13 @@ A repo for Contribution done during HacktoberFestKarunya 2019
 
 1. Mention your name at the top of your file 
 ```
-@ your_name
+@ Vincent Ashish
 
 \\ Code
 
 ```
+
+
+### https://docs.google.com/presentation/d/1KTmGjuUhnXCPwni3B8-mLYL-8ygUHl1x5BfxVDuJ3UM/edit?usp=sharing
 
 
