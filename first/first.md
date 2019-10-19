@@ -1,5 +1,6 @@
-first year Contribution are Kept under this repo
+First year Contribution are Kept under this repo
 
+bolemvyshnavi urk19ec1062
 aasbangiftsons[urk19cs3002]
 selva urk19ec1039
 sam sergius URK19CS1020
@@ -19,6 +20,3 @@ saran[urk19cs1215]
 Rishabh [urk19cs1109]
 vishal soy-urk19cs113
 amala nikitha
-
-
-
