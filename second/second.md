@@ -1,5 +1,9 @@
-daSecond year contribution are kept under this repo
+Second year contribution are kept under this repo
 
-
-name : darkbox
-reg.no : urk18isd080
+darkbox urk18isd080
+Ashlyn Jacob URK18CS267
+Jones cyril  URK18CS105
+Vincent Ashish [URK18CS278]
+Gaius Reji [URK18CS084]
+nagaveda [urk18cs053]
+vini7148
