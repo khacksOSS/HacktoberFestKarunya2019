@@ -1,5 +1,6 @@
 First year Contribution are Kept under this repo
 
+jijo paul urk19cs1073
 John Gilbert URK19ee1032
 Kirubhakaran Victor URK19AE1029
 jackson samuel urk19cs1167
@@ -27,3 +28,4 @@ Rishabh [urk19cs1109]
 vishal soy-urk19cs113
 amala nikitha
 mugenboat
+
