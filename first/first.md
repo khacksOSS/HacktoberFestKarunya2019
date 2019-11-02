@@ -1,8 +1,8 @@
 First year Contribution are Kept under this repo
 
+sam sergius URK19CS1020
+selva urk19ec1039
 SkullX8 [urk19cs1244]
-
-
 jijo paul urk19cs1073
 John Gilbert URK19ee1032
 Kirubhakaran Victor URK19AE1029
@@ -12,8 +12,6 @@ tiya urk19isd016
 Ashish K URK19CS1040
 bolemvyshnavi urk19ec1062
 aasbangiftsons[urk19cs3002]
-selva urk19ec1039
-sam sergius URK19CS1020
 neha [urk19isd013]
 shreya r nair urk19ac1049
 Ajin S URK19CS1053
@@ -29,7 +27,6 @@ steve abraham [urk19cs1015]
 saran[urk19cs1215]
 Rishabh [urk19cs1109]
 vishal soy-urk19cs113
+vishal soy-urk19cs1103
 amala nikitha
 mugenboat
-
-
