@@ -1,5 +1,8 @@
 First year Contribution are Kept under this repo
 
+
+Manoj Abraham URK19CS1111
+
 reshmi [urk19isd011]
 
 shreya r nair [urk19ac1049]
@@ -65,8 +68,6 @@ saran[urk19cs1215]
 Rishabh [urk19cs1109]
 
 vishal soy [urk19cs1103]
-
-vishal soy-urk19cs1103
 
 amala nikitha
 
