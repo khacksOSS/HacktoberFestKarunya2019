@@ -18,7 +18,10 @@ cout<<"Enter the number of terms";
 cin>>n;
 cout<<a<<endl<<b<<endl;
 for(i=2;i<n;i++)
-{c=a+b;
+{
+   
+
+c=a+b;
 a=b;
 b=c;
 cout<<c<<endl;
